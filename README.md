@@ -1,4 +1,4 @@
-# minesweeper
+## MineSweeper
 
 Just an attempt to recreate MineSweeper
 
