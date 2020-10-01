@@ -17,7 +17,7 @@ Timer timer;
 Stopwatch stopwatch=Stopwatch();
 int minutes;
 int seconds;
-
+//This where the program starts
 void main() => runApp(BoardGame());
 
 
