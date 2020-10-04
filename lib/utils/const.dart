@@ -8,6 +8,7 @@ String upset='images/upset.PNG';
 String brust='images/brust.PNG';
 String flag='images/flag.PNG';
 var cellColor= Color(0xFFC0C0C0);
+// list of colours
 var numberColor=[
   Colors.blue,
   Color(0xFF008001),
